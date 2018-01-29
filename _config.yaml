@@ -1,0 +1,11 @@
+# basic options
+title: Welcome to the Garrett-Bakelman Lab!
+author: Yaseswini
+email: yaseswini.1404@gmail.com
+description: blah
+twitter_username: dont know
+github_username:  Yaseswini
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minima
