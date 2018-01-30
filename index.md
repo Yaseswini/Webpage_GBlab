@@ -1,4 +1,4 @@
 ---
 title: 
 ---
-# Welcome to the Garrett-Bakelman Lab!
+# Welcome to the Garrett-Bakelman Labbb!
