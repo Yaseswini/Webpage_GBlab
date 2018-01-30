@@ -1,5 +1,2 @@
----
-title:
----
 
 # Welcome to the 
