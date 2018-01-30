@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Welcome to 
+# Welcome to the Garrett-Bakelman Lab!
