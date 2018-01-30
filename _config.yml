@@ -10,5 +10,5 @@ github_username:  Yaseswini
 markdown: kramdown
 theme: minima
 exclude:
-  - Gemfile
-  - Gemfile.lock
+- Gemfile
+- Gemfile.lock
