@@ -1,6 +1,5 @@
 ---
-layout: home
-pagination:
-  enabled: false
+title: Home
 ---
-# Wel1
+
+<h1Welcome..</h>
