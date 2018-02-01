@@ -3,17 +3,13 @@ layout: page
 title: TEAM
 ---
 
-## Francine E Garrett-Bakelman
-### Principal Investigator
+### Francine E Garrett-Bakelman , MD , PhD 
 
-## Yaseswini Neelamraju
-### Computational Biologist
+-----------------------------
+### Yaseswini Neelamraju
 
-## Sam Haddox
-### Lab Manager
+----------------------------
 
-## Emily Dennis
-### Lab Technician
+### Sam Haddox
 
-## Subhash Prajapati
-### Post Doctoral Research Fellow
+
