@@ -4,6 +4,7 @@ title: TEAM
 ---
 
 ## Francine E Garrett-Bakelman
+### Principal Investigator
 
 ## Yaseswini Neelamraju
 ### Computational Biologist
