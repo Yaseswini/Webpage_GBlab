@@ -3,13 +3,14 @@ layout: page
 title: TEAM
 ---
 
-### Francine E Garrett-Bakelman , MD , PhD 
-
+#### Francine E Garrett-Bakelman , MD , PhD 
 -----------------------------
-### Yaseswini Neelamraju
-
+#### Yaseswini Neelamraju
 ----------------------------
-
-### Sam Haddox
+#### Sam Haddox
+-----------------------------
+#### Emily Dennis 
+-----------------------------
+#### Subhash Prajapati , PhD
 
 
