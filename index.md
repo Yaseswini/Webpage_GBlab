@@ -15,4 +15,3 @@ progression (from disease diagnosis to relapse) is characterized by significant 
 expressed genes. Studies are being pursued to identify genes affected by the epigenetic changes observed and how their
 function contributes to the malignant phenotype.
 
-[Contact Us]({{% contact.md %}})
