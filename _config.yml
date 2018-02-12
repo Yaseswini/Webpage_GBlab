@@ -18,3 +18,4 @@ exclude:
 #header_pages:
 # - CONTACT.html
 # - PEOPLE.html
+baseurl: /GBLab
