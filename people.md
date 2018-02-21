@@ -3,7 +3,7 @@ layout: page
 title: TEAM
 ---
 
-<h4>Francine E Garrett-Bakelman , MD , PhD<\h4>
+<h4>Francine E Garrett-Bakelman , MD , PhD</h4>
 
 ***
 
@@ -13,14 +13,14 @@ title: TEAM
 
 ***
 
-<h4>Sam Haddox<\h4>
+<h4>Sam Haddox</h4>
 
 ***
 
-<h4>Emily Dennis<\h4> 
+<h4>Emily Dennis</h4> 
 
 ***
 
-<h4>Subhash Prajapati , PhD<\h4>
+<h4>Subhash Prajapati , PhD</h4>
 
 
