@@ -6,7 +6,9 @@ title: TEAM
 #### Francine E Garrett-Bakelman , MD , PhD
 ![Fran](_images/FGB.png)
 
+
 List of [publications][FGB_pubmed]
+
 ----
 
 #### Yaseswini Neelamraju
@@ -34,7 +36,7 @@ List of my publications can be accessed [here][SP_pubmed]
 
 
 <!-- Pubmed Links in alphabetical order -->
-[FGB_pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/?term=bakelman%2C+garrett%2C+francine
+[FGB_pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/?term=bakelman+garrett%2C+francine
 [SP_pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/?term=prajapati%2C+subhash
 [YN_pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/?term=neelamraju%2C+yaseswini
 
