@@ -29,14 +29,15 @@ List of my publications can be accessed [here][YN_pubmed]
 
 #### Subhash Prajapati , PhD
 
-List of my publications can be accessed here[SP_pubmed]
+List of my publications can be accessed [here][SP_pubmed]
+
 
 
 <!-- Pubmed Links in alphabetical order -->
 [ED_pubmed]:
 [FGB_pubmed]:
 [SH_pubmed]:
-[SP_pubmed]:
+[SP_pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/?term=prajapati%2C+subhash
 [YN_pubmed]: https://www.ncbi.nlm.nih.gov/pubmed/?term=neelamraju%2C+yaseswini
 
 
