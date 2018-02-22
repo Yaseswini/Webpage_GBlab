@@ -5,6 +5,7 @@ title: TEAM
 
 #### Francine E Garrett-Bakelman , MD , PhD
 {: .gitlab-purple}
+
 ![Fran](./_images/FGB.png "Francine")
 
 
