@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Team
 ---
 
 #### Francine E Garrett-Bakelman , MD , PhD
