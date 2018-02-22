@@ -9,7 +9,7 @@ title: TEAM
 
 <h4>Yaseswini Neelamraju</h4>
 
-![Yaseswini](images/YN.jpg){:height="250px" width="250px"}
+![Yaseswini](_images/YN.jpg){:height="250px" width="250px"}
 I earned bachelors degree in Biotechnology from Jawaharlal Nehru Technological<br /> University , Hyderabad , India and a masters degree in Bioinformatics from University of Hyderabad , Indian . I have three<br />years of experience in transcriptomic data analysis . List of my publications can be accessed [here]({{"https://www.ncbi.nlm.nih.gov/pubmed/?term=neelamraju%2C+yaseswini"}})
 
 ***
