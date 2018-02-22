@@ -6,7 +6,7 @@ title: TEAM
 #### Francine E Garrett-Bakelman , MD , PhD
 ![Fran](_images/FGB.png)
 
-***
+----
 
 #### Yaseswini Neelamraju
 
@@ -17,15 +17,15 @@ I earned bachelors degree in Biotechnology from Jawaharlal Nehru Technological U
 
 List of my publications can be accessed [here]({{"https://www.ncbi.nlm.nih.gov/pubmed/?term=neelamraju%2C+yaseswini"}})
 
-***
+----
 
 #### Sam Haddox
 
-***
+----
 
 #### Emily Dennis
 
-***
+----
 
 #### Subhash Prajapati , PhD
 
