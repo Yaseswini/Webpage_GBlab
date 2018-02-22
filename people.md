@@ -17,7 +17,7 @@ List of [publications][FGB_pubmed]
 
 I earned bachelors degree in Biotechnology from Jawaharlal Nehru Technological University , Hyderabad , India and a masters degree in Bioinformatics from University of Hyderabad , Indian . I have three years of experience in transcriptomic data analysis.
 
-List of my publications can be accessed **[here]**[YN_pubmed]
+List of my publications can be accessed [here][YN_pubmed]
 
 ----
 
