@@ -1,10 +1,10 @@
 # basic options
 title: GBLab
-author: Yaseswini
+#author: Yaseswini
 #email: yaseswini.1404@gmail.com
 #description: blah
 #twitter_username: dont know
-github_username:  Yaseswini
+#github_username:  Yaseswini
 
 # Build settings
 markdown: kramdown
