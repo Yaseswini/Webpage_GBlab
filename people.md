@@ -16,7 +16,6 @@ List of [publications][FGB_pubmed]
 ![Yaseswini](./_images/YN.jpg "Yaseswini")
 
 Education
-
 -M.Tech.Bioinformatics , University of Hyderabad , India
 -B.Tech.Biotechnology , Jawaharlal Nehru Technological University , India
 
