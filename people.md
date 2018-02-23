@@ -3,7 +3,7 @@ layout: page
 title: Team
 ---
 
-#### Francine E Garrett-Bakelman , MD , PhD
+#### Francine E Garrett-Bakelman
 ![Fran](./_images/FGB.png "Francine")
 
 
@@ -15,7 +15,12 @@ List of [publications][FGB_pubmed]
 
 ![Yaseswini](./_images/YN.jpg "Yaseswini")
 
-I earned bachelors degree in Biotechnology from Jawaharlal Nehru Technological University , Hyderabad , India and a masters degree in Bioinformatics from University of Hyderabad , Indian . I have three years of experience in transcriptomic data analysis.
+Education
+
+-M.Tech.Bioinformatics , University of Hyderabad , India
+-B.Tech.Biotechnology , Jawaharlal Nehru Technological University , India
+
+Bio
 
 List of my publications can be accessed [here][YN_pubmed]
 
@@ -32,7 +37,7 @@ List of my publications can be accessed [here][SH_pubmed]
 
 ----
 
-#### Subhash Prajapati , PhD
+#### Subhash Prajapati
 
 List of my publications can be accessed [here][SP_pubmed]
 
