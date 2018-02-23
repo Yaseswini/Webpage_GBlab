@@ -23,7 +23,9 @@ List of my publications can be accessed [here][YN_pubmed]
 
 #### Sam Haddox
 
+
 List of my publications can be accessed [here][SH_pubmed]
+
 ----
 
 #### Emily Dennis
