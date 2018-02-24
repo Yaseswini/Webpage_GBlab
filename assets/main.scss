@@ -3,8 +3,6 @@
 ---
 
 @import "minima";
-// import partials
-
 
 @charset "utf-8";
 
@@ -50,4 +48,12 @@ $on-laptop:        800px !default;
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;
 }
+
+// Import partials.
+@import
+  "base",
+  "layout"
+;
 	
+
+
