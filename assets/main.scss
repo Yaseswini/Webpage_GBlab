@@ -2,7 +2,12 @@
 # Front matter comment to ensure Jekyll properly reads file
 ---
 
-@import "minima";
+//@import "minima";
+// Import partials.
+@import
+  "base",
+  "layout"
+;
 
 @charset "utf-8";
 
@@ -49,11 +54,5 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
-// Import partials.
-@import
-  "base",
-  "layout"
-;
-	
 
 
