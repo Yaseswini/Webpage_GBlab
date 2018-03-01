@@ -4,7 +4,7 @@ title: Team
 ---
 
 #### Francine E Garrett-Bakelman
-![Fran](./_images/FGB.png "Francine")
+![Fran](_images/FGB.png "Francine")
 
 
 List of [publications][FGB_pubmed]
@@ -13,7 +13,7 @@ List of [publications][FGB_pubmed]
 
 #### Yaseswini Neelamraju
 
-![Yaseswini](./_images/YN.jpg "Yaseswini")
+![Yaseswini](_images/YN.jpg "Yaseswini")
 
 Education
 
