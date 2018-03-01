@@ -4,12 +4,6 @@
 
 @import "minima";
 
-// Import partials.
-@import
-  "base",
-  "layout"
-;
-
 @charset "utf-8";
 
 // Define defaults for each variable.
@@ -55,5 +49,10 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
+// Import partials.
+@import
+  "base",
+  "layout"
+;
 
 
