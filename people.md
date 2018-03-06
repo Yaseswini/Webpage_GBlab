@@ -13,7 +13,7 @@ List of [publications][FGB_pubmed]
 
 #### Yaseswini Neelamraju
 
-![Yaseswini](./_images/YN.jpg "Yaseswini")
+![Yaseswini](images/YN.jpg "Yaseswini")
 
 Education
 
