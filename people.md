@@ -4,7 +4,7 @@ title: Team
 ---
 
 #### Francine E Garrett-Bakelman
-![Fran]({{ site.url }}/_images/FGB.png "Francine")
+![Fran](./images/FGB.png "Francine")
 
 
 List of [publications][FGB_pubmed]
