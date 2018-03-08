@@ -18,4 +18,5 @@ exclude:
 header_pages:
  - contact.md
  - people.md
+ - data.md
 #baseurl: /GBLab
