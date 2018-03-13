@@ -13,7 +13,9 @@ List of [publications][FGB_pubmed]
 
 #### Yaseswini Neelamraju
 
+<div style="float:right; text-align:center; margin-left:10px;">
 ![Yaseswini](images/YN.jpg "Yaseswini")
+</div>
 
 Education
 
@@ -23,7 +25,7 @@ Education
 Bio
 
 List of my publications can be accessed [here][YN_pubmed]
-
+</div>
 ----
 
 #### Sam Haddox
