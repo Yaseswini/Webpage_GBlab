@@ -15,6 +15,7 @@ List of [publications][FGB_pubmed]
 <div style="float:right; text-align:center; margin-left:10px;">
 ![Yaseswini](images/YN.jpg "Yaseswini")
 </div>
+{::options parse_block_html="true" /}
 
 Education
 
