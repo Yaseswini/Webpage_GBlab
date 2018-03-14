@@ -26,7 +26,7 @@ Education
 Bio
 
 List of my publications can be accessed [here][YN_pubmed]
-</div>
+
 ----
 
 #### Sam Haddox
