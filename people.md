@@ -3,7 +3,7 @@ layout: page
 title: Team
 ---
 
-#### Francine E Garrett-Bakelman
+### Francine E Garrett-Bakelman
 ![Fran](images/FGB.png "Francine")
 
 
@@ -11,7 +11,7 @@ List of [publications][FGB_pubmed]
 
 ----
 
-#### Yaseswini Neelamraju
+### Yaseswini Neelamraju
 
 <div style="float:right; text-align:center; margin-left:10px;">
 <img src="images/YN.jpg" style="border: 1px solid #777777">
@@ -29,18 +29,18 @@ List of my publications can be accessed [here][YN_pubmed]
 
 ----
 
-#### Sam Haddox
+### Sam Haddox
 
 
 List of my publications can be accessed [here][SH_pubmed]
 
 ----
 
-#### Emily Dennis
+### Emily Dennis
 
 ----
 
-#### Subhash Prajapati
+### Subhash Prajapati
 
 List of my publications can be accessed [here][SP_pubmed]
 
