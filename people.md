@@ -14,7 +14,7 @@ List of [publications][FGB_pubmed]
 ### Yaseswini Neelamraju
 
 <div style="float:right; text-align:center; margin-left:10px;">
-<img src="images/YN.svg" style="border: 1px solid #777777">
+<img src="images/YN.jpeg" style="border: 1px solid #777777">
 </div>
 {::options parse_block_html="true" /}
 
