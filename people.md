@@ -4,13 +4,11 @@ title: Team
 ---
 
 <div style="float:left; text-align:center; margin-left:10px;">
-<img src="images/YN.jpg" style="border: 1px solid #777777">
+<img src="images/FGB.png" style="border: 1px solid #777777">
 </div>
 {::options parse_block_html="true" /}
 
 ### Francine E Garrett-Bakelman
-![Fran](images/FGB.png "Francine")
-
 
 List of [publications][FGB_pubmed]
 
