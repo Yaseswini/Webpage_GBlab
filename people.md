@@ -43,10 +43,6 @@ List of my publications can be accessed [here][SH_pubmed]
 
 ----
 
-<div style="float:right; text-align:center; margin-left:10px;">
-<img src="images/SP_1.jpeg" style="border: 1px solid #777777">
-</div>
-{::options parse_block_html="true" /}
 ### Subhash Prajapati
 
 List of my publications can be accessed [here][SP_pubmed]
