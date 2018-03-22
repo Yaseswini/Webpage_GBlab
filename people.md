@@ -3,7 +3,7 @@ layout: page
 title: Team
 ---
 
-<div style="float:right; text-align:center; margin-left:10px;">
+<div style="float:left; text-align:center; margin-left:10px;">
 <img src="images/FGB.png" style="border: 1px solid #777777">
 </div>
 {::options parse_block_html="true" /}
