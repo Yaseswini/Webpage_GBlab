@@ -4,8 +4,8 @@ title:
 
 ## Welcome to the Garrett-Bakelman Lab
 
-<div style="text-align:center; margin-right:10px;">
-<img src="images/LabPicture.jpg" style="border: 1px solid #777777">
+<div style="text-align:center">
+<img src="images/LabPicture.jpg" style="border: 3px solid #777777">
 </div>
 {::options parse_block_html="true" /}
 
