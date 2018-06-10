@@ -34,6 +34,11 @@ List of my publications can be accessed [here][YN_pubmed]
 
 ----
 
+<div style="float:left; text-align:center; margin-right:10px;">
+<img src="images/SH.jpg" style="border: 1px solid #777777">
+</div>
+{::options parse_block_html="true" /}
+
 ### Sam Haddox
 
 
@@ -49,6 +54,7 @@ List of my publications can be accessed [here][SH_pubmed]
 
 List of my publications can be accessed [here][SP_pubmed]
 
+### Nicholas Dunham
 
 <!-- Pubmed Links in alphabetical order -->
 [FGB_pubmed]: https://www.ncbi.nlm.nih.gov/sites/myncbi/francine.garrett-bakelman.1/bibliography/43682539/public/?sort=date&direction=ascending
