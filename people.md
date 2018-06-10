@@ -35,18 +35,20 @@ List of my publications can be accessed [here][YN_pubmed]
 ----
 
 <div style="float:left; text-align:center; margin-right:10px;">
-<img src="images/SH.jpg" style="border: 1px solid #777777">
+<img src="images/IMG_3474.jpg" style="border: 1px solid #777777">
 </div>
 {::options parse_block_html="true" /}
 
 ### Sam Haddox
 
+Acute Myeloid Leukemia (AML) is the most common acute leukemia in adults. AML prognosis and overall survival decline in patients older that 60 years of age and in patients who develop disease relapse after initial treatments. Our main research goal is to understand molecular and epigenetic mechanisms responsible for AML disease phenotypes. Through this aim, in the long-term, findings will help identify novel therapeutic targets in AML. We investigate these questions through the study of samples from AML patients and functional validations in in vitro and in vivo models. Epigenetic (DNA methylation, gene expression, and chromatin assays), molecular and cellular biology techniques are implemented to study how aberrant expression of specific genes contributes to abnormal cellular phenotypes and leukemogenesis. Previous studies have determined that AML progression (from disease diagnosis to relapse) is characterized by significant epigenetic plasticity and differentially expressed genes. Studies are being pursued to identify genes affected by the epigenetic changes observed and how their function contributes to the malignant phenotype.
 
 List of my publications can be accessed [here][SH_pubmed]
 
 ----
 
 ### Emily Dennis
+
 
 ----
 
