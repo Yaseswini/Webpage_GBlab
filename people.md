@@ -12,7 +12,7 @@ title: Team
 
 Dr. Francine Garrett-Bakelman is a physician scientist who cares for patients with hematological malignancies and studies disease mechanisms in and biomarkers of Acute Myeloid Leukemia.
 
-More about my work can be accessed from the [BMG faculy profile][FGB_facultyProfile] or [here][[FGB_clincalProfile]
+More about my work can be accessed from the [BMG faculy profile][FGB_facultyProfile] or [here][FGB_clincalProfile]
 
 ----
 
