@@ -53,6 +53,8 @@ I grew up in New Delhi, India and received my Ph.D. in Biochemistry from the Dep
 
 List of my publications can be accessed [here][SP_pubmed]
 
+---
+
 ### Nicholas Dunham
 
 I attended James Madison University for my Bachelor’s degree in Biotechnology. While at JMU, I worked with Dr. Raymond Enke on DNA methylation in the vertebrate retina. I enrolled into the graduate studies at the University of Virginia and joining the Garrett-Bakelman laboratory to perform thesis research on the roles of epigenetic modifications and mechanisms in acute myeloid leukemia.
