@@ -8,7 +8,7 @@ title: GBLab
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-dinky
 exclude:
 - Gemfile
 - Gemfile.lock
